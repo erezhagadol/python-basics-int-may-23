@@ -1,0 +1,1 @@
+list_of_cities = [('tel aviv', 'center'), 

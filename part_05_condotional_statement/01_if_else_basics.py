@@ -1,0 +1,9 @@
+age = 21
+
+if age >=18:
+    print("Well Done!")
+    print(age)
+else:
+    print("You're too young")
+
+    print("After it block")
